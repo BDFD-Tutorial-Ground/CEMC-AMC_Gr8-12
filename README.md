@@ -11,15 +11,15 @@ The American Mathematics Competitions (AMC) consist of a series of increasingly 
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12.svg?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12.svg?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
 # <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>American Mathmatics Competition
 
 ## About This Course/Certificate
 
-![commits](https://img.shields.io/github/last-commit/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12?label=Last%20Commit%20)
+![commits](https://img.shields.io/github/last-commit/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12.svg?label=Last%20Commit%20)
 
 An introductory course in physics for students intending to concentrate their future studies in the physical sciences, optometry, or mathematics; includes vectors (dot and cross products), particle kinematics and dynamics, forces in nature, work and energy, conservation of energy and linear momentum, rotational kinematics and dynamics, and conservation of angular momentum.
 
