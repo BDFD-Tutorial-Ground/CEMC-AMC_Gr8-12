@@ -10,9 +10,9 @@
 The American Mathematics Competitions (AMC) consist of a series of increasingly difficult tests for students in middle school and high school. The AMC sets the standard in the United States for talented high school students of mathematics. The AMC curriculum is both comprehensive and modern. AMC exams are so well designed that some top universities such as MIT now ask students for their AMC scores. "AMC" is also used as an abbreviation for American Math Contest, used to refer to the AMC 8, AMC 10, and AMC 12.
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12.svg?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12.svg?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/CEMC-AMC_Gr8-12.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/CEMC-AMC_Gr8-12.svg?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/CEMC-AMC_Gr8-12.svg?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
 # <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>American Mathmatics Competition
