@@ -27,12 +27,12 @@ The American Mathematics Competitions (AMC) consist of a series of increasingly 
 
 **Course Content**
 
-- [ ] **P1-Textbook(Publisher/Year)**
-- [ ] **P2-Solution Mannual(Publisher/Year)**
-- [ ] **P3-Lecture Handout(Self Prepared for Publisher/Year)**
-- [ ] **P4-Project Plan(Self Prepare)**
-- [ ] **P5-Unit Test Review Question(Publisher/Year)**
-- [ ] **P6-Exam Review Question(Publisher/Year)**
+- [x] **P1-Textbook(AoPs)**
+- [x] **P2-Solution Mannual(AoPs)**
+- [x] **P3-Formula Sheet(Self Prepared/2025)**
+- [x] **P4-Problem Set(Past Question Collection)**
+- [x] **P5-Past Year Question(Hoster/2000-2022)**
+- [ ] **P9-Reference Note/Book(Publisher/Year)**
 
 **Course Content Structures**
 In order of increasing difficulty, AMC competitions are
