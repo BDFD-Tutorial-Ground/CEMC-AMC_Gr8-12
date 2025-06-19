@@ -7,8 +7,6 @@
  * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
 -->
 
-The American Mathematics Competitions (AMC) consist of a series of increasingly difficult tests for students in middle school and high school. The AMC sets the standard in the United States for talented high school students of mathematics. The AMC curriculum is both comprehensive and modern. AMC exams are so well designed that some top universities such as MIT now ask students for their AMC scores. "AMC" is also used as an abbreviation for American Math Contest, used to refer to the AMC 8, AMC 10, and AMC 12.
-
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/CEMC-AMC_Gr8-12.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/CEMC-AMC_Gr8-12.svg?style=flat)
@@ -21,11 +19,20 @@ The American Mathematics Competitions (AMC) consist of a series of increasingly 
 
 ![commits](https://img.shields.io/github/last-commit/BDFD-Tutorial-Ground/CEMC-AMC_Gr.8-12.svg?label=Last%20Commit%20)
 
-An introductory course in physics for students intending to concentrate their future studies in the physical sciences, optometry, or mathematics; includes vectors (dot and cross products), particle kinematics and dynamics, forces in nature, work and energy, conservation of energy and linear momentum, rotational kinematics and dynamics, and conservation of angular momentum.
+The American Mathematics Competitions (AMC) consist of a series of increasingly difficult tests for students in middle school and high school. The AMC sets the standard in the United States for talented high school students of mathematics. The AMC curriculum is both comprehensive and modern. AMC exams are so well designed that some top universities such as MIT now ask students for their AMC scores. "AMC" is also used as an abbreviation for American Math Contest, used to refer to the AMC 8, AMC 10, and AMC 12.
 
 **Contest prerequisite**
 
-- [x] **None**
+- [x] **Beginner - Competition Math For Middle School**
+
+**Course Content**
+
+- [ ] **P1-Textbook(Publisher/Year)**
+- [ ] **P2-Solution Mannual(Publisher/Year)**
+- [ ] **P3-Lecture Handout(Self Prepared for Publisher/Year)**
+- [ ] **P4-Project Plan(Self Prepare)**
+- [ ] **P5-Unit Test Review Question(Publisher/Year)**
+- [ ] **P6-Exam Review Question(Publisher/Year)**
 
 **Course Content Structures**
 In order of increasing difficulty, AMC competitions are
@@ -42,14 +49,17 @@ In order of increasing difficulty, AMC competitions are
 The courses enlisted as follows:
 AMC tests mathematical problem solving with arithmetic, algebra, counting, geometry, number theory, and probability, with far more cross-over between the subject areas than in nearly all classrooms. For example, most classrooms only have divisibility rules and little tidbits of number theory, and consider number theory as not a whole branch of mathematics but just a bunch of short cuts. The AMCs use number theory in much deeper (although elementary, without analysis) ways. Tests vary widely in difficulty. All three of the tests are designed such that no background in calculus, analysis, or any other higher mathematics is needed to take the exams.
 
-- [x] **M1-Fundamental**
-- [x] **M2-PreAlegebra**
-- [x] **M3-Algebra**
-- [x] **M4-Counting & Probability**
-- [x] **M5-Geometry**
-- [x] **M6-Number Theory**
-- [x] **M7-PreCalculus**
-- [x] **M8-Volume 1 & 2**
+- [x] **Introductory 01 - PreAlegebra**
+- [x] **Introductory 02 - Algebra**
+- [x] **Introductory 03 - Counting & Probability**
+- [x] **Introductory 04 - Geometry**
+- [x] **Introductory 05 - Number Theory**
+- [x] **Intermediate 01 - Algebra**
+- [x] **Introductory 02 - Counting & Probability**
+- [x] **Introductory 03 - PreCalculus**
+- [x] **Advanced 01 - Calculus**
+- [x] **Advanced 02 - Volume 1**
+- [x] **Advanced 03 - Volume 2**
 
 ## Course Description: 1 Course
 
